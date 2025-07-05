@@ -1,5 +1,8 @@
 Given(/^User is in "(.*?)" page$/) do |url|
     visit url
+    if page.has_text?("Accept", wait: 5)
+        page.click_on("Accept")
+    end
     expect(page).to(have_content('Welcome back!'))
     sleep 2
 end
