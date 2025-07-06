@@ -1,4 +1,4 @@
-@ai-edit
+@ai-edit @eklipse.gg
 Feature: AI Video Editing Platform
 
 Background:

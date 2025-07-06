@@ -1,3 +1,4 @@
+@landing
 Feature: Landing Page
 
  Scenario: Non login user validate landing page

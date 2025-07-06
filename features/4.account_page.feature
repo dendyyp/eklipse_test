@@ -1,4 +1,4 @@
-@account
+@account @eklipse.gg
 Feature: Account Settings Page
 
 Background:

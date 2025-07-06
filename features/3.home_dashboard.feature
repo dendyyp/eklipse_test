@@ -1,4 +1,4 @@
-@home
+@home @eklipse.gg
 Feature: Home Dashboard after login
 
 Background:

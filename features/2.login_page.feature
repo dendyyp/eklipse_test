@@ -1,4 +1,4 @@
-@login
+@login @eklipse.gg
 Feature: Login page
 
 Scenario: User login with valid credentials
